@@ -1,5 +1,5 @@
 titulo_curso = 'Curso profesional de Python'
 
-nombre_completo = 'Eduardo Ismael García Pérez'
+nombre_completo = 'Andres E. Parilli'
 
 print(titulo_curso)

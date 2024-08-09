@@ -1,5 +1,5 @@
-nombre = 'Eduardo Ismael'
-apellido = 'García'
+nombre = 'Andres Eduardo'
+apellido = 'Parilli'
 
 # nombre_completo = 'Mr.' +  nombre + ' ' + apellido + '.'
 

@@ -1,4 +1,4 @@
-nombre = 'Eduardo Ismael'
-apellido = 'García'
+nombre = 'Andres Eduardo'
+apellido = 'Parilli'
 
-print(nombre, apellido, 'Pérez', sep=' ')
+print(nombre, apellido, 'Lombana', sep=' ')
